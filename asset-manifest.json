@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/monicalaura/go-drumming/static/css/main.708769f5.chunk.css",
-    "main.js": "/monicalaura/go-drumming/static/js/main.44501e7c.chunk.js",
-    "main.js.map": "/monicalaura/go-drumming/static/js/main.44501e7c.chunk.js.map",
-    "runtime-main.js": "/monicalaura/go-drumming/static/js/runtime-main.618569c8.js",
-    "runtime-main.js.map": "/monicalaura/go-drumming/static/js/runtime-main.618569c8.js.map",
-    "static/js/2.3ac87236.chunk.js": "/monicalaura/go-drumming/static/js/2.3ac87236.chunk.js",
-    "static/js/2.3ac87236.chunk.js.map": "/monicalaura/go-drumming/static/js/2.3ac87236.chunk.js.map",
-    "index.html": "/monicalaura/go-drumming/index.html",
-    "precache-manifest.d7b52f1fea2d11cbaac5176854dc908a.js": "/monicalaura/go-drumming/precache-manifest.d7b52f1fea2d11cbaac5176854dc908a.js",
-    "service-worker.js": "/monicalaura/go-drumming/service-worker.js",
-    "static/css/main.708769f5.chunk.css.map": "/monicalaura/go-drumming/static/css/main.708769f5.chunk.css.map",
-    "static/js/2.3ac87236.chunk.js.LICENSE.txt": "/monicalaura/go-drumming/static/js/2.3ac87236.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/monicalaura/go-drumming/static/media/background.e72d703f.png"
+    "main.css": "/go-drumming/static/css/main.4c6cd2e8.chunk.css",
+    "main.js": "/go-drumming/static/js/main.99f2dab7.chunk.js",
+    "main.js.map": "/go-drumming/static/js/main.99f2dab7.chunk.js.map",
+    "runtime-main.js": "/go-drumming/static/js/runtime-main.8bad992e.js",
+    "runtime-main.js.map": "/go-drumming/static/js/runtime-main.8bad992e.js.map",
+    "static/js/2.3ac87236.chunk.js": "/go-drumming/static/js/2.3ac87236.chunk.js",
+    "static/js/2.3ac87236.chunk.js.map": "/go-drumming/static/js/2.3ac87236.chunk.js.map",
+    "index.html": "/go-drumming/index.html",
+    "precache-manifest.72e8b9da48d3a6063e74514681f335cf.js": "/go-drumming/precache-manifest.72e8b9da48d3a6063e74514681f335cf.js",
+    "service-worker.js": "/go-drumming/service-worker.js",
+    "static/css/main.4c6cd2e8.chunk.css.map": "/go-drumming/static/css/main.4c6cd2e8.chunk.css.map",
+    "static/js/2.3ac87236.chunk.js.LICENSE.txt": "/go-drumming/static/js/2.3ac87236.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/go-drumming/static/media/background.e72d703f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.618569c8.js",
+    "static/js/runtime-main.8bad992e.js",
     "static/js/2.3ac87236.chunk.js",
-    "static/css/main.708769f5.chunk.css",
-    "static/js/main.44501e7c.chunk.js"
+    "static/css/main.4c6cd2e8.chunk.css",
+    "static/js/main.99f2dab7.chunk.js"
   ]
 }
