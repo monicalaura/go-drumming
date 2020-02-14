@@ -1,7 +1,7 @@
 {
   "name": "go-drumming",
   "version": "0.1.0",
-  "homepage":"https://github.com/monicalaura/go-drumming", 
+  "homepage": "https://monicalaura.github.io/go-drumming/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -33,5 +33,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
   }
 }
