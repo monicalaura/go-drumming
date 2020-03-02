@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/go-drumming/precache-manifest.72e8b9da48d3a6063e74514681f335cf.js"
+  "/go-drumming/precache-manifest.fe5365d7b65460d5d529c7d13ba96421.js"
 );
 
 self.addEventListener('message', (event) => {
